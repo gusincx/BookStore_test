@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08e666f3-1bf4-426d-9606-defa44f4f753" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\WorkProject\IdeaProjects\BookStore\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="false" />
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="localRepository" value="" />
+        <option name="mavenHome" value="" />
+        <option name="nonRecursive" value="false" />
+        <option name="outputLevel" value="INFO" />
+        <option name="pluginUpdatePolicy" value="DEFAULT" />
+        <option name="printErrorStackTraces" value="false" />
+        <option name="usePluginRegistry" value="false" />
+        <option name="userSettingsFile" value="" />
+        <option name="workOffline" value="false" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="false" />
+        <option name="createModulesForAggregators" value="true" />
+        <option name="dedicatedModuleDir" value="" />
+        <option name="downloadDocsAutomatically" value="false" />
+        <option name="downloadSourcesAutomatically" value="false" />
+        <option name="excludeTargetFolder" value="true" />
+        <option name="generatedSourcesFolder" value="AUTODETECT" />
+        <option name="importAutomatically" value="false" />
+        <option name="keepSourceFolders" value="true" />
+        <option name="lookForNested" value="false" />
+        <option name="updateFoldersOnImportPhase" value="process-resources" />
+        <option name="useMavenOutput" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list />
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDSCxcUtRjNWeawPXWlxWepNB5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Gusin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08e666f3-1bf4-426d-9606-defa44f4f753" name="Default Changelist" comment="" />
+      <created>1588165046291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588165046291</updated>
+      <workItem from="1588165049983" duration="4704000" />
+      <workItem from="1588171070620" duration="194000" />
+      <workItem from="1588171277210" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="399" key="#com.intellij.ide.util.MemberChooser" timestamp="1588169076233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="399" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588169076233" />
+    <state x="405" y="125" key="CommitChangelistDialog2" timestamp="1588171161251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="125" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588171161251" />
+    <state x="646" y="437" key="FileChooserDialogImpl" timestamp="1588170209471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="437" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588170209471" />
+    <state x="729" y="573" key="Github.ShareDialog" timestamp="1588171418114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="573" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588171418114" />
+    <state x="578" y="235" key="Github.UntrackedFilesDialog" timestamp="1588170681261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="235" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588170681261" />
+    <state x="568" y="252" key="RollbackChangesDialog" timestamp="1588171085618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="252" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588171085618" />
+    <state x="367" y="189" key="SettingsEditor" timestamp="1588171466772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588171466772" />
+    <state x="490" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1588171500549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588171500549" />
+    <state x="602" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588171104711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588171104711" />
+    <state x="505" y="321" key="git4idea.merge.GitPullDialog" timestamp="1588170610617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="321" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588170610617" />
+  </component>
+</project>
